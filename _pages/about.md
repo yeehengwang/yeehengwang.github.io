@@ -19,7 +19,7 @@ redirect_from:
 # 👋 About Me
 **Hello! I'm Yiheng Wang (王一衡).** 👋 I’m a **second-year Ph.D. Student** at the **School of Artificial Intelligence, The Chinese Univeristy of Hong Kong, Shenzhen,** supervised by **[Prof. Tsung-Hui Chang](https://myweb.cuhk.edu.cn/changtsunghui/Home)**, **[Prof. Ye Xue](https://yokoxue.github.io/)** and **[Prof. Tianshu Yu](https://mypage.cuhk.edu.cn/academics/yutianshu/)**.
 
-🎓 Prior to that, I hold a **master's degree** from the **Department of Electrical and Computer Engineering, National University of Singapore**, where I was fortunately mentored by **[Dr. Yongchen Jing]** and **[Dr. Jingwen Ye](https://jngwenye.github.io/)**, under the supervision of **[Prof. Xinchao Wang](https://sites.google.com/site/sitexinchaowang//)**. I received my bachelor’s degree from the **School of Electronic Engineering, Xidian University**.
+🎓 Prior to that, I hold a **master's degree** from the **Department of Electrical and Computer Engineering, National University of Singapore**, where I was fortunately mentored by **Dr. Yongchen Jing** and **[Dr. Jingwen Ye](https://jngwenye.github.io/)**, under the supervision of **[Prof. Xinchao Wang](https://sites.google.com/site/sitexinchaowang//)**. I received my bachelor’s degree from the **School of Electronic Engineering, Xidian University**.
 <!-- For more details, please see my **[CV](files/cv_20250305.pdf)**.   -->
 
 🤖 I'm passionate about **Artificial General Intelligence (AGI)** and 🎵 **Music**. My research interests include **Generative Wireless World Model** and **Learning-based Optimization (L2O)**.
@@ -40,13 +40,13 @@ redirect_from:
 # 🔥 News
 <!-- - *2025.03*: &nbsp;🚀🚀 I joined <img src="images/Taobao.png" alt="TAOBAO&TMALL Group" width="70"/> as an Algorithm Engineer!   -->
 - *2025.12*: &nbsp;🎉🎉 One paper is accepted by **IEEE INFOCOM 2026**!  
-- *2025.11*: &nbsp;🧩🔬 I joined <img src="images/SYSU.png" alt="SYSU Shenzhen" width="100"/> based in Shenzhen, China as a Visiting Ph.D. Student!  
+- *2025.11*: &nbsp;🧩🔬 I joined Sun Yat-Sen University <img src="images/SYSU.png" alt="SYSU Shenzhen" width="100"/> based in Shenzhen, China as a Visiting Ph.D. Student!  
 - *2025.11*: &nbsp;🎉🎉 One paper is accepted by **IEEE GLOBECOM 2025**!  
 - *2025.05: &nbsp;🎉🎉 One paper is accepted by **ICML 2025**!
 - *2025.02: &nbsp;🎉🎉 One paper is accepted by **IEEE Transaction On Wireless Communication**!
 - *2024.05*: &nbsp;🔍💡 I joined <img src="images/CFAR.png" alt="AStar CFAR" width="100"/> based in Singapore as a Research Intern!  
 - *2023.11*: &nbsp;🎉🎉 One paper is accepted by **IEEE ICC 2024**!  
-- *2023.6*: &nbsp;🎯📚 I joined <img src="images/logo1.png" alt="SRIBD" width="100"/> based in Shenzhen, China as a Research Intern! 
+- *2023.6*: &nbsp;🎯📚 I joined Shenzhen Research Institute of Big Data (SRIBD) <img src="images/logo1.png" alt="SRIBD" width="100"/> based in Shenzhen, China as a Research Intern! 
 - *2023.2*: &nbsp;🎉🎉 One challenge report paper is accepted by **CVPR 2023**!   
 <!-- - *2022.07*: &nbsp;🧩🔬 I joined <img src="images/SAIL.jpg" alt="SAIL Lab" width="80"/> as a Research Intern!   -->
 <!-- - *2022.05*: &nbsp;💼🌍 I joined <img src="images/Microsoft.jpg" alt="Microsoft" width="80"/> as an Applied Scientist Intern!   -->
