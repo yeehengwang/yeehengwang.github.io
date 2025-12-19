@@ -114,6 +114,10 @@ redirect_from:
 - TA, DDA 6112 Stochastic Optimization, Fall 2025
 - TA, DDA 2001 Introduction to Data Science (Optimization Part), Spring 2025
 
+**Friends' Homepage**
+- **[Xiaobo Liu](https://rorschaches.github.io/)**
+- **[Yeqing Qiu](https://qyqyqyqyqyq.github.io/)**
+
 
 
 
