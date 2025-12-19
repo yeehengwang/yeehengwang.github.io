@@ -24,7 +24,7 @@ redirect_from:
 
 🤖 I'm passionate about **Artificial General Intelligence (AGI)** and 🎵 **Music**. My research interests include **Generative Wireless World Model** and **Learning-based Optimization (L2O)**.
 
-🎸 My favorite artists include David Tao (陶吉吉), Khalil Fong (方大同). 
+🎸 My favorite artists include **David Tao** (陶吉吉), **Khalil Fong** (方大同). 
 
 🚀 Let’s connect and talk about **AI, R&B music, or anything cool!** 😎
 
@@ -40,14 +40,14 @@ redirect_from:
 # 🔥 News
 <!-- - *2025.03*: &nbsp;🚀🚀 I joined <img src="images/Taobao.png" alt="TAOBAO&TMALL Group" width="70"/> as an Algorithm Engineer!   -->
 - *2025.12*: &nbsp;🎉🎉 One paper is accepted by **IEEE INFOCOM 2026**!  
-- *2025.11*: &nbsp;🧩🔬 I joined Sun Yat-Sen University <img src="images/SYSU.png" alt="SYSU Shenzhen" width="100"/> based in Shenzhen, China as a Visiting Ph.D. Student!  
+- *2025.11*: &nbsp;🧩🔬 I joined **Sun Yat-Sen University** <img src="images/SYSU.png" alt="SYSU Shenzhen" width="100"/> based in Shenzhen, China as a Visiting Ph.D. Student!  
 - *2025.11*: &nbsp;🎉🎉 One paper is accepted by **IEEE GLOBECOM 2025**!  
-- *2025.05: &nbsp;🎉🎉 One paper is accepted by **ICML 2025**!
-- *2025.02: &nbsp;🎉🎉 One paper is accepted by **IEEE Transaction On Wireless Communication**!
+- *2025.05*: &nbsp;🎉🎉 One paper is accepted by **ICML 2025**!
+- *2025.02*: &nbsp;🎉🎉 One paper is accepted by **IEEE Transaction On Wireless Communication**!
 - *2024.05*: &nbsp;🔍💡 I joined Centre for Frontier AI Research (CFAR), AStar <img src="images/CFAR.png" alt="AStar CFAR" width="100"/> based in Singapore as a Research Intern!  
 - *2023.11*: &nbsp;🎉🎉 One paper is accepted by **IEEE ICC 2024**!  
-- *2023.6*: &nbsp;🎯📚 I joined Shenzhen Research Institute of Big Data (SRIBD) <img src="images/logo1.png" alt="SRIBD" width="100"/> based in Shenzhen, China as a Research Intern! 
-- *2023.2*: &nbsp;🎉🎉 One challenge report paper is accepted by **CVPR 2023**!   
+- *2023.06*: &nbsp;🎯📚 I joined **Shenzhen Research Institute of Big Data (SRIBD)** <img src="images/logo1.png" alt="SRIBD" width="100"/> based in Shenzhen, China as a Research Intern! 
+- *2023.02*: &nbsp;🎉🎉 One challenge report paper is accepted by **CVPR 2023**!   
 <!-- - *2022.07*: &nbsp;🧩🔬 I joined <img src="images/SAIL.jpg" alt="SAIL Lab" width="80"/> as a Research Intern!   -->
 <!-- - *2022.05*: &nbsp;💼🌍 I joined <img src="images/Microsoft.jpg" alt="Microsoft" width="80"/> as an Applied Scientist Intern!   -->
 
