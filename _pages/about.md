@@ -44,7 +44,7 @@ redirect_from:
 - *2025.11*: &nbsp;🎉🎉 One paper is accepted by **IEEE GLOBECOM 2025**!  
 - *2025.05*: &nbsp;🎉🎉 One paper is accepted by **ICML 2025**!
 - *2025.02*: &nbsp;🎉🎉 One paper is accepted by **IEEE Transaction On Wireless Communication**!
-- *2024.05*: &nbsp;🔍💡 I joined Centre for Frontier AI Research (CFAR), AStar <img src="images/CFAR.png" alt="AStar CFAR" width="100"/> based in Singapore as a Research Intern!  
+- *2024.05*: &nbsp;🔍💡 I joined **Centre for Frontier AI Research (CFAR), AStar** <img src="images/CFAR.png" alt="AStar CFAR" width="100"/> based in Singapore as a Research Intern!  
 - *2023.11*: &nbsp;🎉🎉 One paper is accepted by **IEEE ICC 2024**!  
 - *2023.06*: &nbsp;🎯📚 I joined **Shenzhen Research Institute of Big Data (SRIBD)** <img src="images/logo1.png" alt="SRIBD" width="100"/> based in Shenzhen, China as a Research Intern! 
 - *2023.02*: &nbsp;🎉🎉 One challenge report paper is accepted by **CVPR 2023**!   
