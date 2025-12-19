@@ -99,6 +99,7 @@ redirect_from:
 
 
 # 🎖 Honors and Awards
+- *2025.10* SRIBD Doctoral Scholarship (Gold Class), Shenzhen Research Institute of Big Data (SRIBD), Shenzhen, China.
 - *2024.08* CFAR Internship Award for Research Excellence, Centre for Frontier AI Research (CFAR), AStar, Singapore. 
 - *2023.06* Overseas Study Scholarship for Outstanding Graduates, Xidian University, Xi'an, China. 
 
