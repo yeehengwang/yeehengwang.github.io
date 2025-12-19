@@ -1,56 +1,120 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About - Yiheng Wang"
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+<span class='anchor' id='about-me'></span>
+# 👋 About Me
+**Hello! I'm Yiheng Wang (王一衡).** 👋 I’m a **second-year Ph.D. Student** at the **School of Artificial Intelligence, The Chinese Univeristy of Hong Kong, Shenzhen,** supervised by **[Prof. Tsung-Hui Chang](https://myweb.cuhk.edu.cn/changtsunghui/Home)**, **[Prof. Ye Xue](https://yokoxue.github.io/)** and **[Prof. Tianshu Yu](https://mypage.cuhk.edu.cn/academics/yutianshu/)**.
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+🎓 Prior to that, I hold a **master's degree** from the **Department of Electrical and Computer Engineering, National University of Singapore**, where I was fortunately mentored by **[Dr. Yongchen Jing]** and **[Dr. Jingwen Ye](https://jngwenye.github.io/)**, under the supervision of **[Prof. Xinchao Wang](https://sites.google.com/site/sitexinchaowang//)**. I received my bachelor’s degree from the **School of Electronic Engineering, Xidian University**.
+<!-- For more details, please see my **[CV](files/cv_20250305.pdf)**.   -->
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+🤖 I'm passionate about **Artificial General Intelligence (AGI)** and 🎵 **Music**. My research interests include **Generative Wireless World Model** and **Learning-based Optimization (L2O)**.
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+🎸 My favorite artists include David Tao (陶吉吉), Khalil Fong (方大同). 
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+🚀 Let’s connect and talk about **AI, R&B music, or anything cool!** 😎
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+# 📖 Educations
+- *2024.09 - Present*, Ph.D. in School of Artificial Intelligence, The Chinese University of Hong Kong, Shenzhen, China.
+- *2025.11 - Present*, Visiting Ph.D. of School of Intelligent Systems Engineering, Sun Yat-Sen University (SYSU), Shenzhen, China.
+- *2023.08 - 2024.08*, M.Sc. in Department of Electrical and Computer Engineering, National University of Singapore (NUS), Singapore.
+- *2019.09 - 2023.06*, B.S. in School of Electronic Engineering, Xidian University (XDU), Xi'an, China. 
 
-**Markdown generator**
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+# 🔥 News
+<!-- - *2025.03*: &nbsp;🚀🚀 I joined <img src="images/Taobao.png" alt="TAOBAO&TMALL Group" width="70"/> as an Algorithm Engineer!   -->
+- *2025.12*: &nbsp;🎉🎉 One paper is accepted by **IEEE INFOCOM 2026**!  
+- *2025.11*: &nbsp;🧩🔬 I joined <img src="images/zhongshan.png" alt="SYSU Shenzhen" width="80"/> based in Shenzhen, China as a Visiting Ph.D. Student!  
+- *2025.11*: &nbsp;🎉🎉 One paper is accepted by **IEEE GLOBECOM 2025**!  
+- *2025.05: &nbsp;🎉🎉 One paper is accepted by **ICML 2025**!
+- *2025.02: &nbsp;🎉🎉 One paper is accepted by **IEEE Transaction On Wireless Communication**!
+- *2024.05*: &nbsp;🔍💡 I joined <img src="images/CFAR.png" alt="AStar CFAR" width="50"/> based in Singapore as a Research Intern!  
+- *2023.11*: &nbsp;🎉🎉 One paper is accepted by **IEEE ICC 2024**!  
+- *2023.6*: &nbsp;🎯📚 I joined <img src="images/logo1.png" alt="SRIBD" width="60"/> based in Shenzhen, China as a Research Intern! 
+- *2023.2*: &nbsp;🎉🎉 One challenge report paper is accepted by **CVPR 2023**!   
+<!-- - *2022.07*: &nbsp;🧩🔬 I joined <img src="images/SAIL.jpg" alt="SAIL Lab" width="80"/> as a Research Intern!   -->
+<!-- - *2022.05*: &nbsp;💼🌍 I joined <img src="images/Microsoft.jpg" alt="Microsoft" width="80"/> as an Applied Scientist Intern!   -->
 
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
+# 📝 Selected Publications 
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE INFOCOM 2026</div><img src='images/FINAL1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**RadCloudSplat: Scatterer-Driven 3D Gaussian Splatting with Point-Cloud Priors for Radiomap Extrapolation**
+
+* **Yiheng Wang**, Ye Xue, Shutao Zhang, Hongmiao Fan, Tsung-Hui Chang*
+
+[**Paper Link**](https://arxiv.org/abs/2502.12686) 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE GLOBECOM 2025</div><img src='images/GB_RT_NEW.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Multi-Modal Neural Radio Radiance Field for Localized Statistical Channel Modelling**
+
+* **Yiheng Wang**, Shutao Zhang, Ye Xue, Tsung-Hui Chang*
+
+[**Paper Link**](https://arxiv.org/abs/2508.06054)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TWC</div><img src='images/TWC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**GNN-based Structured Bayesian Inference for Multi-grid Localized Statistical Channel Modeling**
+
+* **Yiheng Wang**, Ye Xue, Shutao Zhang, Tsung-Hui Chang*
+
+[**Paper Link**](https://ieeexplore.ieee.org/abstract/document/10924577)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/ROS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**ROS: A GNN-based Relax-Optimize-and-Sample Framework for Max-k-Cut Problems**
+
+*Yeqing Qiu, Ye Xue, Akang Wang, **Yiheng Wang**, Qingjiang Shi, Zhi-Quan Luo*
+
+[**Paper Link**](https://arxiv.org/abs/2412.05146)
+</div>
+</div>
+
+
+# 🎖 Honors and Awards
+- *2024.8* CFAR Internship Award for Research Excellence, Centre for Frontier AI Research (CFAR), AStar, Singapore. 
+- *2023.06* Overseas Study Scholarship for Outstanding Graduates, Xidian Univeristy, Xi'an, China. 
+
+# 💼 Others
+
+**Reviewer**
+- IEEE Transaction on Big Data (TBD) 
+- IEEE The International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+- IEEE The International Conference on Communication (ICC)
+
+**Teaching**
+- Leading TA, DDA 6112 Stochastic Optimization, Fall 2025
+- TA, DDA 2001 Introduction to Data Science (Optimization Part), Spring 2025
+
+
+
+
+
+
