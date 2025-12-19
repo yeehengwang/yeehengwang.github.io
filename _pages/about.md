@@ -115,10 +115,10 @@ redirect_from:
 - TA, DDA 2001 Introduction to Data Science (Optimization Part), Spring 2025
 
 **My Best Friends' Homepage**
-- **[Xiaobo Liu](https://rorschaches.github.io/)**
-- **[Yeqing Qiu](https://qyqyqyqyqyq.github.io/)**
-- **[Haochuan Li](https://haochuan-li.github.io/)**
-- **[Gang Zhu](https://stkosavage.github.io/about/)**
+- **[Xiaobo Liu](https://rorschaches.github.io/)**, a Ph.D. Student on Wireless Network Optimization in CUHK-Shenzhen
+- **[Yeqing Qiu](https://qyqyqyqyqyq.github.io/)**, a Ph.D. Student on Learning-based Optimize (L2O) in CUHK-Shenzhen
+- **[Haochuan Li](https://haochuan-li.github.io/)**, a LLM Recomendation Scientist in Alibaba
+- **[Gang Zhu](https://stkosavage.github.io/about/)**, a LLM Safety Scientist in Wechat
 
 
 
