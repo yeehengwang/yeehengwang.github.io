@@ -119,6 +119,7 @@ redirect_from:
 - **[Yeqing Qiu](https://qyqyqyqyqyq.github.io/)**, a Ph.D. Student on Learning-based Optimize (L2O) in CUHK-Shenzhen
 - **[Haochuan Li](https://haochuan-li.github.io/)**, a LLM Recomendation Scientist in Alibaba
 - **[Gang Zhu](https://stkosavage.github.io/about/)**, a LLM Safety Scientist in Wechat
+- **[Yingxiao Wang](https://wangyingxiao.cn/)**, a Ph.D. Student on Mathematical Optimization in CUHK-Shenzhen
 
 
 
