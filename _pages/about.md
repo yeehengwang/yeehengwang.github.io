@@ -60,7 +60,7 @@ redirect_from:
 
 *Authors:  **Yiheng Wang**, Ye Xue, Shutao Zhang, Hongmiao Fan, Tsung-Hui Chang*
 
-[**Paper Link**](https://arxiv.org/abs/2502.12686) 
+[**Paper Link**](https://arxiv.org/abs/2502.12686)|[**Code Link**](https://github.com/yeehengwang/RadCloudSplat)
 </div>
 </div>
 
