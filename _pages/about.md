@@ -50,7 +50,7 @@ redirect_from:
 - *2023.11*: &nbsp;🎉🎉 One paper is accepted by **IEEE ICC 2024**!  
 - *2023.06*: &nbsp;🎯📚 I joined **Shenzhen Research Institute of Big Data (SRIBD)** <img src="images/logo1.png" alt="SRIBD" width="100"/> based in Shenzhen, China as a Research Intern! 
 - *2023.02*: &nbsp;🎉🎉 One challenge report paper is accepted by **CVPR 2023**!
-- *2022.08*: &nbsp;💼🌍 I joined **National University of Singapore Research Institute (NUSRI)** <img src="images/Suzhou.jpg" alt="NUSRI" width="100"/> based in Suzhou, China as a Visiting Student and Research Intern!   
+- *2022.08*: &nbsp;💼🌍 I joined **National University of Singapore Research Institute (NUSRI)** <img src="images/Suzhou.jpg" alt="NUSRI" width="80"/> based in Suzhou, China as a Visiting Student and Research Intern!   
 <!-- - *2022.07*: &nbsp;🧩🔬 I joined <img src="images/SAIL.jpg" alt="SAIL Lab" width="80"/> as a Research Intern!   -->
 <!-- - *2022.05*: &nbsp;💼🌍 I joined <img src="images/Microsoft.jpg" alt="Microsoft" width="80"/> as an Applied Scientist Intern!   -->
 
