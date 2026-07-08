@@ -39,6 +39,7 @@ redirect_from:
 
 # 🔥 News
 <!-- - *2025.03*: &nbsp;🚀🚀 I joined <img src="images/Taobao.png" alt="TAOBAO&TMALL Group" width="70"/> as an Algorithm Engineer!   -->
+- *2026.06*: &nbsp;🎉🎉 One paper is accepted by **IEEE TWC**!  
 - *2025.12*: &nbsp;🎉🎉 One paper is accepted by **IEEE INFOCOM 2026**!  
 - *2025.11*: &nbsp;🧩🔬 I joined **Sun Yat-Sen University** <img src="images/SYSU.png" alt="SYSU Shenzhen" width="100"/> based in Shenzhen, China as a Visiting Ph.D. Student!  
 - *2025.11*: &nbsp;🎉🎉 One paper is accepted by **IEEE GLOBECOM 2025**!  
@@ -53,6 +54,17 @@ redirect_from:
 
 # 📝 Selected Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TWC</div><img src='images/FINAL2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**PC-TGS: Point-Cloud-Assistant Localized Statistical Channel Prediction by Tangent Gaussian Splatting**
+
+*Authors:   Ye Xue, **Yiheng Wang**, Xinhua Shao, Qi Yan, Shutao Zhang, Tsung-Hui Chang*
+
+[**Paper Link**](https://arxiv.org/abs/2606.18734v1)|[**Code Link**](https://github.com/chenjiadie/PC-TGS) [**Project Link**](https://chenjiadie.github.io/PC-TGS/)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE INFOCOM 2026</div><img src='images/FINAL1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -60,7 +72,7 @@ redirect_from:
 
 *Authors:  **Yiheng Wang**, Ye Xue, Shutao Zhang, Hongmiao Fan, Tsung-Hui Chang*
 
-[**Paper Link**](https://arxiv.org/abs/2502.12686)|[**Code Link**](https://github.com/yeehengwang/RadCloudSplat)
+[**Paper Link**](https://arxiv.org/abs/2502.12686)|[**Code Link**](https://github.com/yeehengwang/RadCloudSplat) [**Project Link**](https://yeehengwang.github.io/RadCloudSplat/)
 </div>
 </div>
 
