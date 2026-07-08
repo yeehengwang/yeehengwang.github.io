@@ -125,8 +125,9 @@ redirect_from:
 - IEEE The International Conference on Communication (ICC)
 
 **Teaching**
-- TA, DDA 6112 Stochastic Optimization, Fall 2025
 - TA, DDA 2001 Introduction to Data Science (Optimization Part), Spring 2025
+- Lead TA, DDA 6112 Stochastic Optimization, Fall 2025
+- Lead TA, AIE 6003 Optimization for Machine Learning, Spring 2026
 
 **My Best Friends' Homepage**
 - **[Xiaobo Liu](https://rorschaches.github.io/)**, a Ph.D. Student on Wireless Network Optimization in CUHK-Shenzhen
