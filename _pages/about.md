@@ -33,7 +33,8 @@ redirect_from:
 - *2024.09 - Present*, Ph.D. in School of Artificial Intelligence, The Chinese University of Hong Kong, Shenzhen, China.
 - *2025.11 - Present*, Visiting Ph.D. of School of Intelligent Systems Engineering, Sun Yat-Sen University (SYSU), Shenzhen, China.
 - *2023.08 - 2024.08*, M.Sc. in Department of Electrical and Computer Engineering, National University of Singapore (NUS), Singapore.
-- *2019.09 - 2023.06*, B.S. in School of Electronic Engineering, Xidian University (XDU), Xi'an, China. 
+- *2019.09 - 2023.06*, B.S. in School of Electronic Engineering, Xidian University (XDU), Xi'an, China.
+- *2022.08 - 2023.06*, Visiting Student in National University of Singapore Research Institute (NUSRI), Suzhou, China. 
 
 
 
@@ -48,7 +49,8 @@ redirect_from:
 - *2024.05*: &nbsp;🔍💡 I joined **Centre for Frontier AI Research (CFAR), AStar** <img src="images/CFAR.png" alt="AStar CFAR" width="100"/> based in Singapore as a Research Intern!  
 - *2023.11*: &nbsp;🎉🎉 One paper is accepted by **IEEE ICC 2024**!  
 - *2023.06*: &nbsp;🎯📚 I joined **Shenzhen Research Institute of Big Data (SRIBD)** <img src="images/logo1.png" alt="SRIBD" width="100"/> based in Shenzhen, China as a Research Intern! 
-- *2023.02*: &nbsp;🎉🎉 One challenge report paper is accepted by **CVPR 2023**!   
+- *2023.02*: &nbsp;🎉🎉 One challenge report paper is accepted by **CVPR 2023**!
+- *2022.08*: &nbsp;💼🌍 I joined **National University of Singapore Research Institute (NUSRI)** based in Suzhou, China as a Visiting Student and Research Intern!   
 <!-- - *2022.07*: &nbsp;🧩🔬 I joined <img src="images/SAIL.jpg" alt="SAIL Lab" width="80"/> as a Research Intern!   -->
 <!-- - *2022.05*: &nbsp;💼🌍 I joined <img src="images/Microsoft.jpg" alt="Microsoft" width="80"/> as an Applied Scientist Intern!   -->
 
