@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 👋 About Me
-**Hello! I'm Yiheng Wang (王一衡).** 👋 I’m a **second-year Ph.D. Student** at the **School of Artificial Intelligence, The Chinese University of Hong Kong, Shenzhen,** supervised by **[Prof. Tsung-Hui Chang](https://myweb.cuhk.edu.cn/changtsunghui/Home)**, **[Prof. Ye Xue](https://yokoxue.github.io/)** and **[Prof. Tianshu Yu](https://mypage.cuhk.edu.cn/academics/yutianshu/)**.
+**Hello! I'm Yiheng Wang (王一衡).** 👋 I’m a **third-year Ph.D. Student** at the **School of Artificial Intelligence, The Chinese University of Hong Kong, Shenzhen,** supervised by **[Prof. Tsung-Hui Chang](https://myweb.cuhk.edu.cn/changtsunghui/Home)**, **[Prof. Ye Xue](https://yokoxue.github.io/)** and **[Prof. Tianshu Yu](https://mypage.cuhk.edu.cn/academics/yutianshu/)**.
 
 🎓 Prior to that, I hold a **master's degree** from the **Department of Electrical and Computer Engineering, National University of Singapore**, where I was fortunately mentored by **Dr. Yongchen Jing** and **[Dr. Jingwen Ye](https://jngwenye.github.io/)**, under the supervision of **[Prof. Xinchao Wang](https://sites.google.com/site/sitexinchaowang//)**. I received my **bachelor’s degree** from the **School of Electronic Engineering, Xidian University**.
 <!-- For more details, please see my **[CV](files/cv_20250305.pdf)**.   -->
