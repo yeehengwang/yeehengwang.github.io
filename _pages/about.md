@@ -40,6 +40,7 @@ redirect_from:
 
 # 🔥 News
 <!-- - *2025.03*: &nbsp;🚀🚀 I joined <img src="images/Taobao.png" alt="TAOBAO&TMALL Group" width="70"/> as an Algorithm Engineer!   -->
+- *2026.10*: &nbsp;🏆🏆 Received **Academic Oral Presentation The Third Prize** in the **Science and Engineering Greater Bay Area Graduate Research Forum 2026**!
 - *2026.06*: &nbsp;🎉🎉 One paper is accepted by **IEEE Transactions On Wireless Communication**!  
 - *2025.12*: &nbsp;🎉🎉 One paper is accepted by **IEEE INFOCOM 2026**!  
 - *2025.11*: &nbsp;🧩🔬 I joined **Sun Yat-Sen University** <img src="images/SYSU.png" alt="SYSU Shenzhen" width="100"/> based in Shenzhen, China as a Visiting Ph.D. Student!  
@@ -113,6 +114,7 @@ redirect_from:
 
 
 # 🎖 Honors and Awards
+- *2026.10* Academic Oral Presentation The Third Prize in the Science and Engineering Greater Bay Area Graduate Research Forum 2026.
 - *2025.10* SRIBD Doctoral Scholarship (Gold Class), Shenzhen Research Institute of Big Data (SRIBD), Shenzhen, China.
 - *2024.08* CFAR Internship Award for Research Excellence, Centre for Frontier AI Research (CFAR), AStar, Singapore. 
 - *2023.06* Overseas Study Scholarship for Outstanding Graduates, Xidian University, Xi'an, China. 
