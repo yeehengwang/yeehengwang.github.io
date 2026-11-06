@@ -86,7 +86,7 @@ redirect_from:
 
 *Authors:  **Yiheng Wang**, Shutao Zhang, Ye Xue, Tsung-Hui Chang*
 
-[**Paper Link**](https://arxiv.org/abs/2508.06054) |[**Code Link**](https://github.com/yeehengwang/RadCloudSplat) | [**Project Link**](https://yeehengwang.github.io/RadCloudSplat/)
+[**Paper Link**](https://arxiv.org/abs/2508.06054) |[**Code Link**](https://yeehengwang.github.io/MM-LSCM/) | [**Project Link**](https://yeehengwang.github.io/MM-LSCM/)
 </div>
 </div>
 
