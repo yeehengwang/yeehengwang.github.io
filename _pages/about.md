@@ -30,16 +30,17 @@ redirect_from:
 
 
 # 📖 Educations
-- *2024.09 - Present*, Ph.D. in School of Artificial Intelligence, The Chinese University of Hong Kong, Shenzhen, China.
-- *2025.11 - Present*, Visiting Ph.D. of School of Intelligent Systems Engineering, Sun Yat-Sen University (SYSU), Shenzhen, China.
-- *2023.08 - 2024.08*, M.Sc. in Department of Electrical and Computer Engineering, National University of Singapore (NUS), Singapore.
+- *2024.09 - Present*, Ph.D. in the School of Artificial Intelligence, The Chinese University of Hong Kong, Shenzhen, China.
+- *2025.11 - Present*, Visiting Ph.D. student, School of Intelligent Systems Engineering, Sun Yat-Sen University (SYSU), Shenzhen, China.
+- *2023.08 - 2024.08*, M.Sc. in the Department of Electrical and Computer Engineering, National University of Singapore (NUS), Singapore.
 - *2019.09 - 2023.06*, B.S. in School of Electronic Engineering, Xidian University (XDU), Xi'an, China.
-- *2022.08 - 2023.06*, Visiting Student in National University of Singapore Research Institute (NUSRI), Suzhou, China. 
+- *2022.08 - 2023.06*, Visiting Student at the National University of Singapore Research Institute (NUSRI), Suzhou, China. 
 
 
 
 # 🔥 News
 <!-- - *2025.03*: &nbsp;🚀🚀 I joined <img src="images/Taobao.png" alt="TAOBAO&TMALL Group" width="70"/> as an Algorithm Engineer!   -->
+- *2026.10*: &nbsp;🚀🚀 Give a oral presentation in **Greater Bay Area Graduate Research Forum 2026**, Shenzhen, China.!  
 - *2026.06*: &nbsp;🎉🎉 One paper is accepted by **IEEE Transactions On Wireless Communication**!  
 - *2025.12*: &nbsp;🎉🎉 One paper is accepted by **IEEE INFOCOM 2026**!  
 - *2025.11*: &nbsp;🧩🔬 I joined **Sun Yat-Sen University** <img src="images/SYSU.png" alt="SYSU Shenzhen" width="100"/> based in Shenzhen, China as a Visiting Ph.D. Student!  
@@ -63,7 +64,7 @@ redirect_from:
 
 *Authors:   Ye Xue, **Yiheng Wang**, Xinhua Shao, Qi Yan, Shutao Zhang, Tsung-Hui Chang*
 
-[**Paper Link**](https://arxiv.org/abs/2606.18734v1)|[**Code Link**](https://github.com/chenjiadie/PC-TGS) [**Project Link**](https://chenjiadie.github.io/PC-TGS/)
+[**Paper Link**](https://arxiv.org/abs/2606.18734v1)|[**Code Link**](https://github.com/chenjiadie/PC-TGS) | [**Project Link**](https://chenjiadie.github.io/PC-TGS/)
 </div>
 </div>
 
@@ -74,7 +75,7 @@ redirect_from:
 
 *Authors:  **Yiheng Wang**, Ye Xue, Shutao Zhang, Hongmiao Fan, Tsung-Hui Chang*
 
-[**Paper Link**](https://arxiv.org/abs/2502.12686)|[**Code Link**](https://github.com/yeehengwang/RadCloudSplat) [**Project Link**](https://yeehengwang.github.io/RadCloudSplat/)
+[**Paper Link**](https://arxiv.org/abs/2502.12686)|[**Code Link**](https://github.com/yeehengwang/RadCloudSplat) | [**Project Link**](https://yeehengwang.github.io/RadCloudSplat/)
 </div>
 </div>
 
@@ -85,7 +86,7 @@ redirect_from:
 
 *Authors:  **Yiheng Wang**, Shutao Zhang, Ye Xue, Tsung-Hui Chang*
 
-[**Paper Link**](https://arxiv.org/abs/2508.06054)
+[**Paper Link**](https://arxiv.org/abs/2508.06054) |[**Code Link**](https://github.com/yeehengwang/RadCloudSplat) | [**Project Link**](https://yeehengwang.github.io/RadCloudSplat/)
 </div>
 </div>
 
@@ -113,6 +114,7 @@ redirect_from:
 
 
 # 🎖 Honors and Awards
+- *2026.10* Third Prize in the Science and Engineering of Academic Oral Presentation, Greater Bay Area Graduate Research Forum 2026, Shenzhen, China.
 - *2025.10* SRIBD Doctoral Scholarship (Gold Class), Shenzhen Research Institute of Big Data (SRIBD), Shenzhen, China.
 - *2024.08* CFAR Internship Award for Research Excellence, Centre for Frontier AI Research (CFAR), AStar, Singapore. 
 - *2023.06* Overseas Study Scholarship for Outstanding Graduates, Xidian University, Xi'an, China. 
@@ -131,11 +133,11 @@ redirect_from:
 - Lead TA, AIE 6003 Optimization for Machine Learning, Spring 2026
 
 **My Best Friends' Homepage**
-- **[Xiaobo Liu](https://rorschaches.github.io/)**, a Ph.D. Student on Wireless Network Optimization in CUHK-Shenzhen
-- **[Yeqing Qiu](https://qyqyqyqyqyq.github.io/)**, a Ph.D. Student on Learning-based Optimize (L2O) in CUHK-Shenzhen
+- **[Xiaobo Liu](https://rorschaches.github.io/)**, a Ph.D. Student on Wireless Network Optimization at CUHK-Shenzhen
+- **[Yeqing Qiu](https://qyqyqyqyqyq.github.io/)**, a Ph.D. Student on Learning-based Optimization (L2O) at CUHK-Shenzhen
 - **[Haochuan Li](https://haochuan-li.github.io/)**, a LLM Recomendation Scientist in Alibaba
 - **[Gang Zhu](https://stkosavage.github.io/about/)**, a LLM Safety Scientist in Wechat
-- **[Yingxiao Wang](https://wangyingxiao.cn/)**, a Ph.D. Student on Mathematical Optimization in CUHK-Shenzhen
+- **[Yingxiao Wang](https://wangyingxiao.cn/)**, a Ph.D. student on Mathematical Optimization at CUHK-Shenzhen
 
 
 
